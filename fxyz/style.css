@@ -15,10 +15,11 @@ a {
 }
 
 #DPS {
-    margin-top: 30px;
+    width: 400px;
+    margin-top: 10px;
     border: solid 3px black;
     border-radius: 6px;
-    background-color: pink;
+    background-color: blue;
 }
 
 /* Add a black background color to the top navigation */
